@@ -1,0 +1,14 @@
+bin/
+obj/
+*.suo
+*.log
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.csproj.user
+*.orig
+Release/
+Debug/
+Dist/
+Packages/
+.nuget/
